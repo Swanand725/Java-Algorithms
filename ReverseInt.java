@@ -23,8 +23,8 @@ Constraints:
 public class ReverseInt {
     /*
      * The solution to the above problem
-     * @param x - the integer to be evaluated 
-     * @return - the reversed integer
+     * @param x - The integer to be evaluated 
+     * @return - The reversed integer
      */
     public int reverse(int x) {
         int reversed = 0; 
